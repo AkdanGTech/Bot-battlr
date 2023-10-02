@@ -1,16 +1,16 @@
-#BOT-BATTLR COLLECTIONS
+# BOT-BATTLR COLLECTIONS
 Welcome to Bot Battlr, the one and only spot in the known universe where you can custom build your own Bot Army! This is our app:
 
-#Instructions
+# Instructions
 For this project, you’ll be building out a React application that displays a list of available bots, among other features. Try your best to find the right places to insert code into the established code base.
 
 Part of what this code challenge is testing is your ability to follow given instructions. While you will definitely have a significant amount of freedom in how you implement the features, be sure to carefully read the directions for setting up the application.
 
-#Setup
+# Setup
 After unbundling the project:
 
 Run npm install in your terminal.
-Run npm run server. This will run your backend on port 8002.
+Run npm run server. This will run your backend on port 3000.
 In a new terminal, run npm start. This will run your React app on port 3000.
 Make sure to open http://localhost:3000/bots in the browser to verify that your backend is working before you proceed!
 
@@ -25,7 +25,7 @@ BotCard and BotSpecs are presentational components that have been provided for y
 
 All of the code to style the page has been written for you, meaning that you should be adding to the code rather than editing it; however, if your finished product has some styling issues, don't worry too much about it.
 
-#Core Deliverables
+# Core Deliverables
 As a user, I should be able to:
 
 See profiles of all bots rendered in BotCollection.
